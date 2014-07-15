@@ -29,7 +29,7 @@ El formulario de encuesta también incluyó preguntas acerca del `Año de Contra
 Primero definimos las características globales del reporte y cargamos la base de datos:
 ```{r dataset}
 require(knitr)
-opts_chunk$set(warning = FALSE, message = FALSE, fig.height = 8, fig.width = 12.5)
+opts_chunk$set(warning = FALSE, message = FALSE, fig.height = 8, fig.width = 14)
 data.docentes <- read.csv("../Fisioterapia2014Docentes.csv")
 ```
 

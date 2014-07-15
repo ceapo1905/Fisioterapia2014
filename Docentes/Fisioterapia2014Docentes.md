@@ -30,7 +30,7 @@ Primero definimos las características globales del reporte y cargamos la base d
 
 ```r
 require(knitr)
-opts_chunk$set(warning = FALSE, message = FALSE, fig.height = 8, fig.width = 12.5)
+opts_chunk$set(warning = FALSE, message = FALSE, fig.height = 8, fig.width = 14)
 data.docentes <- read.csv("../Fisioterapia2014Docentes.csv")
 ```
 
