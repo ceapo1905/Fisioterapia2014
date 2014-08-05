@@ -12,5 +12,5 @@ Este repositorio contiene los resultados de las encuestas 2014 de "Autoevaluaci�
 ## Encuestas a alumnos
 * [Reporte de resultados](https://github.com/alcideschaux/Fisioterapia2014/blob/master/Alumnos/Fisioterapia2014Alumnos.md): en esta página se reportan los resultados de las encuestas hechas a los alumnos.
 * [Figuras](https://github.com/alcideschaux/Fisioterapia2014/tree/master/Alumnos/figure): esta carpeta contiene las figuras en formato .png que se incluyen en el reporte de resultados.
-* [Base de datos](https://github.com/alcideschaux/Fisioterapia2014/blob/master/Fisioterapia2014Alumnos.csv): esta es la base de datos en formato .csv creada a partir de los formularios de encuestas.
+* [Base de datos](https://github.com/alcideschaux/Fisioterapia2014/blob/master/Fisioterapia2014Estudiantes.csv): esta es la base de datos en formato .csv creada a partir de los formularios de encuestas.
 * [Código en R](https://github.com/alcideschaux/Fisioterapia2014/blob/master/Alumnos/Fisioterapia2014Alumnos.Rmd): esta página contiene el código que fue utilizado para el análisis de los datos.
